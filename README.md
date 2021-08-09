@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello, xLamday and i'm the developer of LuppiLandia, in this GitHub page you'll find mine repositories and much more. 
+Hello, xLamday here, and i'm the developer of LuppiLandia. In this GitHub page you'll be able to find mine repositories and much more. 
 
 -------------------
 
