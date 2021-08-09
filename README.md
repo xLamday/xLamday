@@ -18,6 +18,6 @@ Hello, xLamday here and i'm the developer of LuppiLandia. In this GitHub page yo
   
 ![xLamday github stats](https://github-readme-stats.vercel.app/api?username=xLamday&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![[xLamday  github streak](https://github-readme-streak-stats.herokuapp.com/?user=xLamday&theme=radical&include_all_commits=true&count_private=true)
+![xLamday  github streak](https://github-readme-streak-stats.herokuapp.com/?user=xLamday&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
