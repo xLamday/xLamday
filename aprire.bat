@@ -15,7 +15,7 @@ echo =============
 set /p choice=Scegli: 
 if '%choice%'=='1' goto opzione1
 if '%choice%'=='2' start cmd /c shutdown -s
-if '%choice%'=='3' start 
+if '%choice%'=='3' start https://github.com/xLamday/Gaetano
 goto home
 :opzione1
 echo "Staccati dal PC e trova i tuoi 50 euro."
