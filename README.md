@@ -26,13 +26,10 @@ Hello, xLamday here and i'm the developer of LuppiLandia. In this GitHub page yo
 #### 🔝 Top Repositories 🔝
 
 
-<a href="https://github.com/xLamday/LuppiLandia-WindowsRDP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xLamday&repo=LuppiLandia-WindowsRDP&theme=buefy" />
-</a>
-<a href="https://github.com/xLamday/LuppiLandia-LinuxRDP">
+<!--<a href="https://github.com/xLamday/LuppiLandia-LinuxRDP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xLamday&repo=LuppiLandia-LinuxRDP&theme=buefy" />
 </a>
-  
+  -->
 -----------------
   
  <div>
