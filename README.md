@@ -29,6 +29,7 @@ Hello, xLamday here and i'm the developer of LuppiLandia. In this GitHub page yo
 <a href="https://github.com/xLamday/Windows-Activator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xLamday&repo=Windows-Activator&theme=buefy" />
 </a>
+
 -----------------
   
  <div>
