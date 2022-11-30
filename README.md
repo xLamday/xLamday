@@ -23,13 +23,12 @@ Hello, xLamday here and i'm the developer of LuppiLandia. In this GitHub page yo
   
 -----------------
   
-<!-- #### 🔝 Top Repositories 🔝
+ ### 🔝 Top Repositories 🔝
 
 
-<a href="https://github.com/xLamday/LuppiLandia-LinuxRDP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xLamday&repo=LuppiLandia-LinuxRDP&theme=buefy" />
+<a href="https://github.com/xLamday/Windows-Activator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xLamday&repo=Windows-Activator&theme=buefy" />
 </a>
-  -->
 -----------------
   
  <div>
