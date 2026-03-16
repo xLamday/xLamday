@@ -26,7 +26,7 @@ Hello, xLamday here and i'm the developer of LuppiLandia. In this GitHub page yo
  ### 🔝 Top Repositories 🔝
 
 
-<a href="https://github.com/xLamday/telegram-bot>
+<a href="https://github.com/xLamday/telegram-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xLamday&repo=telegram-bot&theme=buefy" />
 </a>
 
